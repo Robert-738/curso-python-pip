@@ -18,3 +18,15 @@ source env/bin/activate
 pip3 install -r requeriments.txt
 python3 main.py
 ```
+
+
+
+# Request con HTTP
+
+```sh
+cd web-server/
+python3 -m venv env
+source env/bin/activate
+pip3 install -r requeriments.txt
+python3 main.py
+```
