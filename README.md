@@ -21,7 +21,7 @@ python3 main.py
 
 
 
-# Request con HTTP
+# Proyecto request con HTTP
 
 ```sh
 cd web-server/
