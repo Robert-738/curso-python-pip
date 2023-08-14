@@ -23,11 +23,16 @@ python3 main.py
 
 
 # Proyecto request con HTTP
-
+Ejecutar en terminal los comandos
 ```sh
 cd web-server/
 python3 -m venv env
 source env/bin/activate
 pip3 install -r requeriments.txt
-python3 main.py
+uvicorn main:app --reload
+```
+
+Abrir el servidor en el explorador el siguiente link
+```sh
+localhost:8000
 ```
