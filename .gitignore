@@ -66,6 +66,12 @@
 *.3dm
 *.max
 
+#Cache en Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 ### Linux ###
 *~
 
@@ -140,4 +146,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,images
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,images,__pycache__
