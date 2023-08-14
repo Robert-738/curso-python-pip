@@ -66,6 +66,12 @@
 *.3dm
 *.max
 
+#Entornos Virtuales
+venv/
+env/
+*.env
+
+
 #Cache en Python
 __pycache__/
 *.pyc
