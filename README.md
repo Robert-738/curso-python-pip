@@ -1,7 +1,7 @@
 # Proyectos del Curso
 
-#### Proyecto de Juego 
-## Método 
+## Proyecto de Juego 
+#### Método 
 Para correr el juego debes seguir las siguientes intrucciones en la terminal:
 
 ```sh
@@ -16,9 +16,9 @@ python3 main.py
 
 
 
-#### Proyecto de App
+## Proyecto de App
 
-## Método 1
+#### Método 1
 Abrir desde Entorno Virtual
 ```sh
 git clone
@@ -39,7 +39,7 @@ python3 main.py
 ```
 
 
-## Método 2
+#### Método 2
 Abrir desde Servidor Local mediante Contenedor Docker
 
 Instalamos Docker desde Terminal
@@ -92,8 +92,8 @@ python main.py
 
 
 
-#### Proyecto request con HTTP
-## Método 1
+## Proyecto request con HTTP
+#### Método 1
 Ejecutar en terminal los comandos
 ```sh
 git clone
@@ -116,7 +116,7 @@ Abrir el servidor en el navegador web desde el siguiente link
 localhost:8000
 ```
 
-## Método 2
+#### Método 2
 
 Abrir desde Servidor Local mediante Contenedor Docker
 
