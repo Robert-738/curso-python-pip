@@ -1,6 +1,6 @@
 # Proyectos del Curso
 
-####Proyecto de Juego 
+#### Proyecto de Juego 
 ## Método 
 Para correr el juego debes seguir las siguientes intrucciones en la terminal:
 
@@ -16,7 +16,7 @@ python3 main.py
 
 
 
-####Proyecto de App
+#### Proyecto de App
 
 ## Método 1
 Abrir desde Entorno Virtual
@@ -92,7 +92,7 @@ python main.py
 
 
 
-####Proyecto request con HTTP
+#### Proyecto request con HTTP
 ## Método 1
 Ejecutar en terminal los comandos
 ```sh
